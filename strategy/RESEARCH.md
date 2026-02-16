@@ -137,6 +137,43 @@ Ondsel was a VC-backed startup that tried to commercialize FreeCAD. They **shut 
 - Average engineering team uses 5+ disconnected tools
 - Generative design subsegment growing at ~18% CAGR
 
+## Precast Concrete Market Opportunity 
+
+Fortune business insights: 
+- market size was valued at USD 160.53 billion in 2025
+- CAGR: 6.3% from 2026–2034
+- projected to grow to USD 170.11 billion in 2026
+- projected to grow to USD 278 billion by 2034
+- Asia Pacific dominated with a market share of 39%-USD 62.21 billion in 2025.
+- China Led the market with a size of USD 40 billion in 2025; India's size is USD 6.1 billion and Japan's is estimated to be worth USD 4.89 billion
+- Europe is the second largest market valued at USD 33.78 billion in 2025. CAGR of 20% during the forecast period (2026-2034).
+- North America size is USD 32.4 billion in 2025.
+- The columns & beams segment held the highest share of 28.96%
+
+Key players: Boral (Australia); Holcim Ltd (Switzerland); Gulf Precast (UAE); Olson Precast Company (U.S.); Larsen & Toubro Limited (India); CEMEX (Mexico); Forterra Building Products Ltd (U.K.); The Wells Companies (U.S); Elementbau Osthessen GmbH & Co., ELO KG (Germany); Bouygues Group (France); Balfour Beatty plc (U.K.); CRH (Ireland); Tindall Corporation (U.S)
+
+Source: https://www.fortunebusinessinsights.com/precast-concrete-market-103301
+
+Grand View Research: 
+- precast concrete market size was estimated at USD 117.16 billion in 2025
+- expected to reach USD 191.01 billion by 2033.
+- CAGR of 6.4% from 2026 to 2033.
+- Asia Pacific dominated the market with the highest revenue share of 40.8% in 2025.
+
+Key players: Boral Ltd; LafargeHolcim; Gulf Precast Concrete Co. LLC; Olson Precast Company; CEMEX S.A.B. de C.V; Forterra Pipe and Precast LLC; Tindall Corporation; Spancrete; Elementbau Osthessen GmbH & Co., ELO KG; GÜlermak A.S; STECS; LAING O’Rourke; Larsen & Toubro Ltd.
+
+The global precast concrete market is estimated at $145-170 billion (2026), growing at 5-7% CAGR through 2026-2034, reaching $190-280 billion (Fortune Business Insights, Grand View Research, Mordor Intelligence, 2024-2025).
+
+Asia-Pacific represents the largest regional market (~40% share), with Middle East & Africa showing fastest growth (7% CAGR). Precast adoption is highest in infrastructure projects (30-50%) and growing rapidly in residential construction (10-40%, varies by region).
+
+Perplexity: 
+- Residential: 10–40% of projects use precast, fastest growing share.
+- Commercial/Industrial: 20–40% use precast, solid but steadier growth.
+- Infrastructure: Majority of major projects (bridges, tunnels, culverts) use precast; already standard in many regions.
+- for bridges, tunnels, culverts, many utilities, precast dominates (often 60–90%+ of new work), and that dominance is stable or slowly increasing.
+Limitaion: These are ranges + direction, not exact global percentages, but they’re consistent with multiple independent sources.
+
+  
 ---
 
 ## What Makes Buildable Unique
@@ -207,3 +244,4 @@ Ondsel was a VC-backed startup that tried to commercialize FreeCAD. They **shut 
 - https://www.futuremarketinsights.com/reports/computer-aided-design-cad-market
 - https://www.mordorintelligence.com/industry-reports/engineering-software-market
 - https://techcrunch.com/2025/10/31/yc-alum-adam-raises-4-1m-to-turn-viral-text-to-3d-tool-into-ai-copilot/
+
