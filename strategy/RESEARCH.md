@@ -173,6 +173,7 @@ Perplexity:
 - for bridges, tunnels, culverts, many utilities, precast dominates (often 60–90%+ of new work), and that dominance is stable or slowly increasing.
 Limitaion: These are ranges + direction, not exact global percentages, but they’re consistent with multiple independent sources.
 
+For: Whole‑project durations; Time percentages for each phase; Typical staffing and crew sizes; Structural engineer salary in georgia - we need to interview firms and get information directly from them. projects are very different and these stats or average stats are not available online, only some individual cases. 
   
 ---
 
@@ -244,4 +245,5 @@ Limitaion: These are ranges + direction, not exact global percentages, but they�
 - https://www.futuremarketinsights.com/reports/computer-aided-design-cad-market
 - https://www.mordorintelligence.com/industry-reports/engineering-software-market
 - https://techcrunch.com/2025/10/31/yc-alum-adam-raises-4-1m-to-turn-viral-text-to-3d-tool-into-ai-copilot/
+
 
