@@ -2,17 +2,77 @@
 
 -WHAT – Clearly explain what your product or service is. Describe your product or service and its positioning within the market using the 4P Marketing Mix: Price, Product, Promotion, and Place. What is the product or service’s Unique Selling Proposition (USP)? What feature or perceived benefit sets it apart from similar products or services? Do you have any Intellectual Property (IP) protections and/or will you need them for the U.S. market?
 Enter your answer
+**Product:** Buildable is text-to-CAD software for precast structural engineers working on 2D construction drawings. Engineers describe what they need in natural language, and the AI generates precise technical drawings — similar to how programmers use Cursor or Claude Code.
+
+**Price:** $200/month per engineer in US/Europe (matches existing CAD software budgets). $500-1000/month per company in emerging markets.
+
+**Product positioning:** We're the only AI tool focused specifically on precast concrete 2D detailing. Competitors target general CAD or 3D modeling. Precast is highly standardized and template-driven — ideal for automation.
+
+**Place:** Software delivered via web/desktop application. No hardware required.
+
+**Promotion:** Distribution through industry associations (our co-founder is incoming CTO of Georgian Precast Association) and direct sales to precast companies.
+
+**USP:** 50% reduction in drawing time. Tested on real projects — 6 hours manually became 3 hours with Buildable. Version-controllable output through Python code generation on FreeCAD (open-source, same geometry engine as SolidWorks).
+
+**IP:** No patents currently. Our defensibility is domain expertise and proprietary training data from real precast workflows.
 14.WHY – Define the problem your product or service is trying to solve and describe the market opportunity, including any market forces and trends, particularly in the U.S. Why is there a market need for your product or service? What is the size of your target market (global and specific to the U.S.), and what potential is there for growth? Who is your target customer and how will you reach them? Who are your closest competitors and what is your competitive advantage?
 Enter your answer
 15.HOW – Describe your business model, your plans for profitability, and any growth/scaling your startup has achieved to date. How do you deliver your product or service to the market? Who are your existing customers? How do you achieve sales? What are your funding needs and why? Do you have any partnerships or other relationships that support your startup’s growth?
 Enter your answer
 16.WHEN/WHERE – Describe your U.S. market expansion plans and entry strategy. As this is a SelectUSA event, it is highly important to demonstrate that you have thought carefully about your U.S. market entry plans and strategy. How and why does U.S. market entry fit your startup’s growth strategy? What does your timeline for U.S. market entry look like? Do you know where in the U.S. you might locate? What steps does your company need to take to prepare for U.S. market entry? What progress have you made?
 Enter your answer
+Buildable is explicitly built for US market entry. Our entire product roadmap and pricing model is designed around the US construction market — the largest and highest willingness-to-pay market for construction software globally.
+
+Timeline:
+
+March 2026: MVP release, first external users in Georgia
+
+Q2 2026: First paying Georgian customers, begin US market research and outreach
+
+Q3 2026: US legal entity formation (Delaware C-Corp), attend PCI annual conference, first US pilot conversations
+
+Q4 2026: First US paying customers
+
+2027: Primary focus shifts to US market scale
+
+Why the US: US precast market is significantly larger, engineers are paid more (meaning our time-saving ROI is higher), and software adoption rates in US construction are faster than in Georgia or Eastern Europe. The $200/seat price point that would be aggressive in Georgia is standard in the US.
+
+Where in the US: San Francisco Bay Area for company headquarters — access to AI/ML engineering talent, investors, and the broader construction tech ecosystem. Sales presence will follow customer concentration, likely Northeast and Southeast US where precast manufacturing is densest.
+
+Steps to prepare:
+
+Validate product with Georgian customers (ongoing)
+
+Form US legal entity
+
+Join PCI and attend industry conferences
+
+Hire one US-based business development person with construction industry relationships
+
+Progress made: Two founders (Otari and Luka) have already committed to relocating to San Francisco post-funding. US pricing model defined. Competitor landscape in US fully mapped.
+Note: progress made part needs to be changed and precast association research needed. 
 17.WHO – Provide information about your management team as indicated to demonstrate why investors can trust your team. Include the names and titles of your management team. What technical or business expertise does your team demonstrate? Why is your management team qualified to deliver your technology product/service to the U.S. market? What are the relevant accomplishments/skills/experiences your leadership team has which contribute to your startup’s success?
-Enter your answer
+Enter your answer 
+Otar Donadze — CEO (35% equity)
+Serial entrepreneur since age 15 — first underage person to register a business in his region (printing company, $5K revenue in 4 months). Previously co-founded BitpulseAI (crypto analytics platform). Led customer discovery for Buildable — personally interviewed 13 industry professionals (engineers, architects, construction directors) before a line of code was written. Secured first construction company client through an AI agency, gaining deep access to how the industry actually works. Secured $10K in government funding to build a co-working space that became the team's first office. Background in business development, sales, and marketing (managed social media generating 3M+ organic views).
+
+Luka Lortkipanidze — CTO (45% equity)
+5+ years of professional software engineering experience across ML, backend, frontend, and DevOps. Built SOTA machine learning model for Georgian real estate valuation at Colliers. CTO at Hapttic (social media monitoring platform). Won 1st place at High-Frequency Trading Hackathon in Dubai. Contributed to tinygrad (open-source deep learning library). Built AI trading bots, a decentralized P2P AI inference network, and now the core Buildable product — alone, with no external technical hires.
+
+Nikoloz Lortkipanidze — CPO (10% equity)
+Structural engineer at Elcrete, upcoming CTO of the Georgian Precast Association. Built AutoCAD automation plugins (AutoLISP) for precast workflows currently used daily by his team. Went from zero industry experience to independently designing structures for real buildings within 6 months. His dual role — domain expert and distribution channel — is the foundation of Buildable's go-to-market strategy.
+
+Why this team: We have the rare combination of a battle-tested technical co-founder, a business co-founder with demonstrated ability to get into rooms he shouldn't be in, and a domain expert who is simultaneously our first user, our product validator, and our direct pipeline to the industry. No other team building in this space has this combination.
+Note: I need to add Tether, drone and speaker at luka's application. keep it like this. no need for many changes. 
 18.Is there anything else important about your startup that you would like to tell us?
 Enter your answer
+Otari and Luka applied to Y Combinator S24 with a different idea (crypto data platform) and failed because we built without talking to customers. We learned from that mistake.
 
+With Buildable, we did the opposite: interviewed engineers, watched them work, understood the problem, then built. We brought in a domain expert as co-founder before writing code.
+
+We're not chasing a trend. We found a real problem in a growing market with no direct competitors. Our co-founder works in this industry daily and will be CTO of the national precast association — giving us distribution that software-only teams can't replicate.
+
+We're coming to the US because that's where the biggest market and highest willingness to pay are. Georgia is our validation ground; America is the goal.
 
 
 
