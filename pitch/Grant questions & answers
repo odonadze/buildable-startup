@@ -13,23 +13,21 @@ Enter your answer
 
 14.WHY – Define the problem your product or service is trying to solve and describe the market opportunity, including any market forces and trends, particularly in the U.S. Why is there a market need for your product or service? What is the size of your target market (global and specific to the U.S.), and what potential is there for growth? Who is your target customer and how will you reach them? Who are your closest competitors and what is your competitive advantage?
 Enter your answer
-Precast concrete is fastest-growing segment of the construction industry globally, expanding at 6% annually as it is 50-80% faster, cheaper and requires less labor compared to other construction methods.  Yet the engineering workflow is stuck in the 1990s.
+Precast concrete is fast growing segment of the construction industry globally, expanding at 6% annually as it is 50-80% faster, cheaper, envirounmently friendly and requires less labor compared to other construction methods.  Yet the engineering workflow is stuck in the 1990s.
 
-The core problem: 
-Market size: 
-Target customer: 
-How we reach them: 
-Competitors: 
+The core problem: Precast projects take 2 months to draw, 15 days to build. Directors complained about this constantly. What slows down precast is its repetitive 2D construction drawings. structural engineers spend 80% of their time on repetitive drawing work, not actual engineering.
+Market size: ~18,000 precast structural engineers in US = serviceable market of $43M in ARR. Even 10% is $4M+ ARR. Global Precast market size is $140B and growing 6% annually.
+Target customer: Precast concrete manufacturers and structural engineering firms employing dedicated precast designers.
+How we reach them: We reach them Through industry associations (Precast/Prestressed Concrete Institute in the US has 1,000+ member companies), direct outreach to company executives and word-of-mouth within precast companies. 
+Competitors: Adam (YC W25, $4M) and Zoo ($10M, Sequoia) do text-to-CAD for general CAD users. Leo AI ($10M, a16z) is a copilot for mechanical engineers and these three are focused on 3D models. DraftAid (YC W24) generates 2D drawings from 3D models for manufacturing parts. None are touching precast 2D detailing as a vertical. We are the only team with a structural engineer as co-founder actively using and testing the product on real projects.
 
 15.HOW – Describe your business model, your plans for profitability, and any growth/scaling your startup has achieved to date.  How do you deliver your product or service to the market? Who are your existing customers? How do you achieve sales? What are your funding needs and why? Do you have any partnerships or other relationships that support your startup’s growth? 
 
-16. HOW
-
-Business model: 
-Current status: 
-Customer acquisition: 
-Funding needs: 
-Partnerships: Georgian Precast Association (via Nikoloz). Elcrete (current employer of Nikoloz) as first pilot customer.
+Business model: Business model: Monthly SaaS subscription. Per-seat pricing at $200/engineer/month in the US — comparable to existing CAD software spend, requiring no new budget approval. Per-company pricing ($500-1,000/month) for smaller Georgian market validation.
+Current status: Proof of concept, working toward MVP. Nikoloz (co-founder, structural engineer) uses and tests on small projects he previously did manually. Last test: a project that took 6 hours manually took 3 hours with Buildable.
+Customer acquisition: Primary channel is industry associations. Nikoloz's upcoming role as CTO of Georgian Precast Association gives us immediate access to multiple companies for pilot customers. In the US, we will replicate this through the Precast/Prestressed Concrete Institute (PCI) network.
+Funding needs: Seeking investment to accelerate product development, hire one additional ML engineer, and fund US market entry (travel, legal entity formation, PCI membership and conference presence). YC funding ($500K) or equivalent angel round.
+Partnerships: Georgian Precast Association - in the process of creation (via Nikoloz). Elcrete (current employer of Nikoloz) as first pilot customer. Element Holding (Our former client) as middleman for connecting Goergian precast companies. 
 
 No revenue yet. First paying customers targeted Q2 2026.
 
